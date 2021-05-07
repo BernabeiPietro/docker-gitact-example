@@ -1,0 +1,9 @@
+name: Java CI with Maven and Docker in MacOS
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: macos-latest
