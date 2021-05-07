@@ -1,0 +1,2 @@
+#used by plugin of docker to include .jar file
+target/*.jar
